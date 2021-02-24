@@ -1,0 +1,16 @@
+2021-02-24 06:12:44 upgrade libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.9 2.4.45+dfsg-1ubuntu1.10
+2021-02-24 06:12:44 status triggers-pending libc-bin:amd64 2.27-3ubuntu1.2
+2021-02-24 06:12:44 status half-configured libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.9
+2021-02-24 06:12:44 status unpacked libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.9
+2021-02-24 06:12:44 status half-installed libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.9
+2021-02-24 06:12:44 status half-installed libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.9
+2021-02-24 06:12:44 status unpacked libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.10
+2021-02-24 06:12:44 status unpacked libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.10
+2021-02-24 06:12:44 startup packages configure
+2021-02-24 06:12:44 configure libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.10 <none>
+2021-02-24 06:12:44 status unpacked libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.10
+2021-02-24 06:12:44 status half-configured libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.10
+2021-02-24 06:12:44 status installed libldap-2.4-2:amd64 2.4.45+dfsg-1ubuntu1.10
+2021-02-24 06:12:44 trigproc libc-bin:amd64 2.27-3ubuntu1.2 <none>
+2021-02-24 06:12:44 status half-configured libc-bin:amd64 2.27-3ubuntu1.2
+2021-02-24 06:12:44 status installed libc-bin:amd64 2.27-3ubuntu1.2
